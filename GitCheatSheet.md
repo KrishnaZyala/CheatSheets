@@ -250,4 +250,5 @@ git push [remote] --tags
 ### More Information, Training, and Tutorials
 
 [GitHub Docs](https://docs.github.com/en)
+
 [GitHub Cheat Sheet PDF ](https://education.github.com/git-cheat-sheet-education.pdf)
